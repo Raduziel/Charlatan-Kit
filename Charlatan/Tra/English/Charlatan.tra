@@ -1,0 +1,62 @@
+/* ===================== *
+ *       Charlatan        *
+ * ===================== */
+@101 = ~charlatan~
+@102 = ~Charlatan~
+@103 = ~CHARLATAN:  Charlatans are masters at manipulating people. Using their high Intelligence and understanding of human nature, they prey upon the foolish, overconfident, and greedy people around them. Charlatans often seem bold and boisterous, but they always maintain self-control. The profession of swindling others and making them feel good about it is an age-old practice and none are better at it than Charlatans.
+
+Advantages:
+
+- Starting at level 1, may use the Charm, Friendly and Perceive The Truth abilities at will.
+
+CHARM
+
+The Charlatan charms a victim during one turn. To be successful the target must be humanoid, non-hostile and fail a Saving Throw vs. Death with a -1 penalty for every three levels of the Charlatan (maximum -3). There's a 5% chance that the victim will notice <PRO_HISHER> intentions and go hostile. To keep the facade, the Charlatan can't cast any sort of spells during 1 turn.
+
+FRIENDLY
+
+The Charlatan manipulates a crowd giving <PRO_HIMHER> a boost of 5 points to Charisma. There's a 5% chance that the crowd will notice the Charlatan's intentions, dropping the party's Reputation by 1.
+
+PERCEIVE THE TRUTH
+
+The Charlatan is a professional liar and cheater and can perceive when someone's is trying to mess with <PRO_HIMHER>. Using this ability the Charlatan have a 5% chance per level of dispelling hostile spells from the Illusion school in a 60-ft. radius area.
+
+Disadvantages:
+
+- Minimal of 16 Charisma
+- Alignment restricted to non-Lawful
+- Can only use up to and including studded leather.
+~
+@104 = ~Charm~
+@105 = ~Charm
+
+Range: 5 ft.
+Duration: 1 turn
+Casting Time: 1
+Area of Effect: 1 humanoid creature
+Saving Throw: Neg.
+
+The Charlatan is a specialist in getting people to like and believe him. With this ability the bard can charm any non-hostile humanoid creature for 1 turn, as long as its HD is lower or equal the Charlatan's level. To keep the facade, the Charlatan can't cast any sort of spells during 1 turn.
+
+The target can make a Saving Throw vs. death with a -1 penalty for every three levels of the Charlatan (maximum -3). Also, there's a 5% chance that the target notices that the Charlatan is trying to manipulate it and goes hostile.~
+@106 = ~Perceive The Truth~
+@107 = ~Perceive The Truth
+
+Range: 0
+Duration: Instant
+Casting Time: 1
+Area of Effect: 120-ft. radius
+Saving Throw: None
+
+When this spell is cast, an area roughly 120 ft. radius around the Charlatan will be affected. All hostile Illusion/Phantasm spells in the area of effect will have a 5% chance per level of the Charlatan of being instantly dispelled. The spells that are affected by this are Reflected Image, Invisibility, Mirror Image, Non-Detection, Improved Invisibility, Shadow Door, Mislead, Project Image, and Simulacrum. The target's Magic Resistance, if any, does not come into effect with this spell. This spell only affects enemies, thus it is unable to dispel invisibility from a party member.~
+@108 = ~Friendly~
+@109 = ~Friendly
+
+Range: 0
+Duration: 1 turn
+Casting Time: 1
+Area of Effect: The caster
+Saving Throw: None
+
+The Charlatan uses <PRO_HISHER> charm to get a boost of 5 points to Charisma. There's a 5% chance that everyone around the bard notices that <PRO_HESHE>'s trying to take some sort of advantage and goes hostile, dropping the party's Reputation by 1.~
+// EoF
