@@ -1,5 +1,5 @@
 /* ===================== *
- *       Charlatan        *
+ *       Charlatan       *
  * ===================== */
 @101 = ~charlatan~
 @102 = ~Charlatan~
@@ -7,7 +7,8 @@
 
 Advantages:
 
-- Starting at level 1, may use the Charm, Friendly and Perceive The Truth abilities at will.
+- Starting at level 1, may use the Charm and Perceive The Truth abilities at will.
+- Starting at level 3, may use the Friendly ability once per day.
 - Starting at level 5, may use the Pretend ability once per day.
 
 CHARM
@@ -16,7 +17,7 @@ The Charlatan charms a victim during one turn. To be successful the target must 
 
 FRIENDLY
 
-The Charlatan manipulates a crowd giving <PRO_HIMHER> a boost of 5 points to Charisma. There's a 5% chance that the crowd will notice the Charlatan's intentions, dropping the party's Reputation by 1.
+The Charlatan manipulates a crowd giving <PRO_HIMHER> a boost of 5 points to Charisma.
 
 PERCEIVE THE TRUTH
 
@@ -63,7 +64,7 @@ Casting Time: 1
 Area of Effect: The caster
 Saving Throw: None
 
-The Charlatan uses <PRO_HISHER> charm to get a boost of 5 points to Charisma. There's a 5% chance that everyone around the bard notices that <PRO_HESHE>'s trying to take some sort of advantage and goes hostile, dropping the party's Reputation by 1.~
+The Charlatan uses <PRO_HISHER> charm to get a boost of 5 points to Charisma.~
 @110 = ~Pretend~
 @111 = ~Pretend
 
