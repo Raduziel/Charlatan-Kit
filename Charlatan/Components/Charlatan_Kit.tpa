@@ -36,12 +36,13 @@ COPY "Charlatan\Spl\RAChaChS.spl" override
 
 COPY "Charlatan\Spl\RAChaPer.spl" override	SAY NAME1 @106	SAY UNIDENTIFIED_DESC @107
 
-COPY "Charlatan\Spl\RAChaFri.spl" override	SAY NAME1 @108	SAY UNIDENTIFIED_DESC @109
+COPY_EXISTING ~SPWI107.spl~ ~override/RAChaFri.spl~
+LPM SPELL_TO_INNATE
 
-COPY "Charlatan\Spl\RAChaPre.spl" override	SAY NAME1 @110	SAY UNIDENTIFIED_DESC @111
+COPY "Charlatan\Spl\RAChaPre.spl" override	SAY NAME1 @108	SAY UNIDENTIFIED_DESC @109
 
 COPY "Charlatan\Spl\RAChaPrB.spl" override
-	LPF ALTER_EFFECT INT_VAR match_parameter1 = 1 match_opcode = 139 parameter1 = RESOLVE_STR_REF (@112) END
+	LPF ALTER_EFFECT INT_VAR match_parameter1 = 1 match_opcode = 139 parameter1 = RESOLVE_STR_REF (@110) END
 	
 COPY "Charlatan\Spl\RAChaPrG.spl" override
 

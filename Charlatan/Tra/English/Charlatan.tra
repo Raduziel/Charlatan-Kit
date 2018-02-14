@@ -8,16 +8,12 @@
 Advantages:
 
 - Starting at level 1, may use the Charm and Perceive The Truth abilities at will.
-- Starting at level 3, may use the Friendly ability once per day.
+- Starting at level 3, may cast Friends as a special ability once per day.
 - Starting at level 5, may use the Pretend ability once per day.
 
 CHARM
 
 The Charlatan charms a victim during one turn. To be successful the target must be humanoid, non-hostile and fail a Saving Throw vs. Death with a -1 penalty for every three levels of the Charlatan (maximum -3). There's a 5% chance that the victim will notice <PRO_HISHER> intentions and go hostile. To keep the facade, the Charlatan can't cast any sort of spells or use <PRO_HISHER> Bard Song during 1 turn.
-
-FRIENDLY
-
-The Charlatan manipulates a crowd giving <PRO_HIMHER> a boost of 5 points to Charisma.
 
 PERCEIVE THE TRUTH
 
@@ -55,18 +51,8 @@ Area of Effect: 120-ft. radius
 Saving Throw: None
 
 When this spell is cast, an area roughly 120 ft. radius around the Charlatan will be affected. All hostile Illusion/Phantasm spells in the area of effect will have a 5% chance per level of the Charlatan of being instantly dispelled. The spells that are affected by this are Reflected Image, Invisibility, Mirror Image, Non-Detection, Improved Invisibility, Shadow Door, Mislead, Project Image, and Simulacrum. The target's Magic Resistance, if any, does not come into effect with this spell. This spell only affects enemies, thus it is unable to dispel invisibility from a party member.~
-@108 = ~Friendly~
-@109 = ~Friendly
-
-Range: 0
-Duration: 1 turn
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
-
-The Charlatan uses <PRO_HISHER> charm to get a boost of 5 points to Charisma.~
-@110 = ~Pretend~
-@111 = ~Pretend
+@108 = ~Pretend~
+@109 = ~Pretend
 
 Range: 0
 Duration: 5 rounds
@@ -77,5 +63,5 @@ Saving Throw: None
 The Charlatan can take <PRO_HISHER> schemes to a next level and really embody a character to outsmart others. This ability can be used once per day and gives the Charlatan a 10% chance (maximum of 50% at level 10) of successfully act as a specialist Fighter of the same level (up to level 13), gaining the benefits of specialization with whatever weapon <PRO_HESHE> is wielding, a Warrior's Thac0 and APR and raise <PRO_HISHER> Strength to 18/50 during 5 rounds.
 
 There's also a 5% chance that the act will fail miserably making the Charlatan Frustrated, giving <PRO_HIMHER> a -3 penalty to Thac0, damage, Armor Class and saving throws. During the act, obviously, the Charlatan can't cast spells, sing <PRO_HISHER> Bard Song or use special abilities. Both effects can be dispelled.~
-@112 = ~Frustrated~
+@110 = ~Frustrated~
 // EoF
