@@ -5,7 +5,8 @@ VERSION ~2.0~
 ALWAYS
 
 	INCLUDE ~%MOD_FOLDER%/Lib/fl#add_kit_ee.tpa~
-  
+    INCLUDE ~%MOD_FOLDER%/Lib/spell_to_innate.tpa~
+	
 END
 
 ASK_EVERY_COMPONENT
