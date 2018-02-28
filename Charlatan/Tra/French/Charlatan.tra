@@ -1,67 +1,68 @@
+// -*- coding: utf-8 -*- 
 /* ===================== *
  *       Charlatan       *
  * ===================== */
 @101 = ~charlatan~
 @102 = ~Charlatan~
-@103 = ~CHARLATAN : Les charlatans sont des experts en manipulation d'autrui. Ils utilisent leur grande intelligence et leur compréhension de la nature humaine pour s'attaquer aux gens idiots, trop confiants ou avides qui les entourent. S'ils paraissent souvent audacieux et tapageurs, les charlatans gardent toujours la maîtrise de soi. Si escroquer les gens est une pratique séculaire, personne n'est aussi doué que les charlatans pour le faire en leur faisant croire que c'est pour leur bien.
+@103 = ~CHARLATAN : Les charlatans sont des experts en manipulation d'autrui. Ils utilisent leur grande intelligence et leur comprÃ©hension de la nature humaine pour s'attaquer aux gens idiots, trop confiants ou avides qui les entourent. S'ils paraissent souvent audacieux et tapageurs, les charlatans gardent toujours la maÃ®trise de soi. Si escroquer les gens est une pratique sÃ©culaire, personne n'est aussi douÃ© que les charlatans pour le faire en leur faisant croire que c'est pour leur bien.
 
 Avantages :
 
-- Au niveau 1, il peut utiliser les capacités Charmer et Percevoir la vérité à volonté.
-- Au niveau 3, il gagne la capacité Amitié une fois par jour.
-- Au niveau 5, il gagne la capacité Feindre une fois par jour.
+- Au niveau 1, il peut utiliser les capacitÃ©s Charmer et Percevoir la vÃ©ritÃ© Ã  volontÃ©.
+- Au niveau 3, il gagne la capacitÃ© AmitiÃ© une fois par jour.
+- Au niveau 5, il gagne la capacitÃ© Feindre une fois par jour.
 
 CHARMER :
 
-Le charlatan charme sa victime pendant un tour. Cette dernière doit être humanoïde, non-hostile et rater un jet de sauvegarde contre la mort avec un malus de 1 par tranche de trois niveaux du charlatan (avec un maximum de -3). Il y a toujours 5% de chance que la victime remarque les intentions du charlatan et devienne hostile. Pour conserver les apparences, le charlatan ne peut ni lancer de sorts, ni utiliser sa chanson du barde pendant un tour.
+Le charlatan charme sa victime pendant un tour. Cette derniÃ¨re doit Ãªtre humanoÃ¯de, non-hostile et rater un jet de sauvegarde contre la mort avec un malus de 1 par tranche de trois niveaux du charlatan (avec un maximum de -3). Il y a toujours 5% de chance que la victime remarque les intentions du charlatan et devienne hostile. Pour conserver les apparences, le charlatan ne peut ni lancer de sorts, ni utiliser sa chanson du barde pendant un tour.
 
-PERCEVOIR LA VÉRITÉ :
+PERCEVOIR LA VÃ‰RITÃ‰ :
 
-En tant que menteur et tricheur professionnel, le charlatan peut détecter quand quelqu'un essaie de jouer avec lui. Grâce à cette capacité, il a 5% de chance par niveau de dissiper des sorts hostiles de l'école d'Illusion dans un rayon de 36 mètres.
+En tant que menteur et tricheur professionnel, le charlatan peut dÃ©tecter quand quelqu'un essaie de jouer avec lui. GrÃ¢ce Ã  cette capacitÃ©, il a 5% de chance par niveau de dissiper des sorts hostiles de l'Ã©cole d'Illusion dans un rayon de 36 mÃ¨tres.
 
 FEINDRE :
 
-Parfois, le charlatan peut vraiment jouer la comédie. Cette capacité lui permet de bénéficier des caractéristiques d'un guerrier spécialisé de même niveau, quelle que soit l'arme qu'il utilise, ainsi que d'une force de 18/50. Ses chances de succès sont de 10% par niveau (avec un maximum de 50% au niveau 10), mais il y a aussi 5% de chance que la comédie échoue lamentablement et le rende frustré. Il souffrira alors d'une pénalité de 3 à ses jets de toucher, de dégâts et de sauvegarde, ainsi qu'à sa classe d'armure. Les deux effets durent 5 rounds et peuvent être dissipés. Pendant qu'il joue la comédie, le charlatan ne peut pas utiliser sa chanson du barde, lancer de sorts, ni utiliser ses autres capacités spéciales.
+Parfois, le charlatan peut vraiment jouer la comÃ©die. Cette capacitÃ© lui permet de bÃ©nÃ©ficier des caractÃ©ristiques d'un guerrier spÃ©cialisÃ© de mÃªme niveau, quelle que soit l'arme qu'il utilise, ainsi que d'une force de 18/50. Ses chances de succÃ¨s sont de 10% par niveau (avec un maximum de 50% au niveau 10), mais il y a aussi 5% de chance que la comÃ©die Ã©choue lamentablement et le rende frustrÃ©. Il souffrira alors d'une pÃ©nalitÃ© de 3 Ã  ses jets de toucher, de dÃ©gÃ¢ts et de sauvegarde, ainsi qu'Ã  sa classe d'armure. Les deux effets durent 5 rounds et peuvent Ãªtre dissipÃ©s. Pendant qu'il joue la comÃ©die, le charlatan ne peut pas utiliser sa chanson du barde, lancer de sorts, ni utiliser ses autres capacitÃ©s spÃ©ciales.
 
 
-Désavantages :
+DÃ©savantages :
 
-- Nécessite au moins 16 en Charisme.
-- Doit être d'alignement non loyal.
+- NÃ©cessite au moins 16 en Charisme.
+- Doit Ãªtre d'alignement non loyal.
 - Ne peut porter d'armure plus lourde que la besantine.~
 @104 = ~Charmer~
 @105 = ~Charmer
 
-Portée : 1,5 mètre
-Durée : 1 tour
+PortÃ©e : 1,5 mÃ¨tre
+DurÃ©e : 1 tour
 Temps d'invocation : 1
-Zone d'effet : 1 créature humanoïde
+Zone d'effet : 1 crÃ©ature humanoÃ¯de
 Jet de sauvegarde : annule
 
-Le charlatan est un expert pour se faire aimer et croire par les gens. Cette capacité lui permet de charmer pendant 1 tour n'importe quelle créature humanoïde non-hostile, ayant un nombre de dés de vie inférieur ou égal à son niveau (jusqu'à un maximum de 10 DV). En cas de succès, le charlatan ne peut lancer aucun sort, ni utiliser sa chanson du barde, pendant un tour, afin de garder le contrôle sur sa victime.
+Le charlatan est un expert pour se faire aimer et croire par les gens. Cette capacitÃ© lui permet de charmer pendant 1 tour n'importe quelle crÃ©ature humanoÃ¯de non-hostile, ayant un nombre de dÃ©s de vie infÃ©rieur ou Ã©gal Ã  son niveau (jusqu'Ã  un maximum de 10 DV). En cas de succÃ¨s, le charlatan ne peut lancer aucun sort, ni utiliser sa chanson du barde, pendant un tour, afin de garder le contrÃ´le sur sa victime.
 
-Cette dernière peut toutefois réussir un jet de sauvegarde contre la mort avec un malus de 1 par tranche de trois niveaux du charlatan (avec un maximum de -3) pour éviter le charme. En outre, Il y a toujours 5% de chance qu'elle remarque que le charlatan essaie de la manipuler et devienne hostile.~
-@106 = ~Percevoir la vérité~
-@107 = ~Percevoir la vérité
+Cette derniÃ¨re peut toutefois rÃ©ussir un jet de sauvegarde contre la mort avec un malus de 1 par tranche de trois niveaux du charlatan (avec un maximum de -3) pour Ã©viter le charme. En outre, Il y a toujours 5% de chance qu'elle remarque que le charlatan essaie de la manipuler et devienne hostile.~
+@106 = ~Percevoir la vÃ©ritÃ©~
+@107 = ~Percevoir la vÃ©ritÃ©
 
-Portée : 0
-Durée : instantanée
+PortÃ©e : 0
+DurÃ©e : instantanÃ©e
 Temps d'invocation : 1
-Zone d'effet : rayon de 36 mètres
+Zone d'effet : rayon de 36 mÃ¨tres
 Jet de sauvegarde : aucun
 
-Ce sort a 5% de chance par niveau du charlatan de dissiper instantanément tous les sorts hostiles d'Illusion ou de Fantasme dans la zone d'effet. Les sorts affectés sont : Image réfléchie, Invisibilité, Image miroir, Non-détection, Invisibilité améliorée, Porte d'ombre, Détection faussée, Projection d'image et Simulacre. Ce sort n'affecte que les ennemis, et leur résistance à la magie est ignorée.~
+Ce sort a 5% de chance par niveau du charlatan de dissiper instantanÃ©ment tous les sorts hostiles d'Illusion ou de Fantasme dans la zone d'effet. Les sorts affectÃ©s sont : Image rÃ©flÃ©chie, InvisibilitÃ©, Image miroir, Non-dÃ©tection, InvisibilitÃ© amÃ©liorÃ©e, Porte d'ombre, DÃ©tection faussÃ©e, Projection d'image et Simulacre. Ce sort n'affecte que les ennemis, et leur rÃ©sistance Ã  la magie est ignorÃ©e.~
 @108 = ~Feindre~
 @109 = ~Feindre
 
-Portée : 0
-Durée : 5 rounds
+PortÃ©e : 0
+DurÃ©e : 5 rounds
 Temps d'invocation : 1
 Zone d'effet : le lanceur
 Jet de sauvegarde : aucun
 
-Le charlatan peut élever ses combines à un niveau supérieur et incarner un rôle pour duper les autres. Une fois par jour, cette capacité lui donne 10% de chance par niveau (jusqu'à un maximum de 50% au niveau 10) de se comporter pendant 5 rounds comme un combattant spécialisé du même niveau (jusqu'au niveau 13) et de bénéficier des avantages de la spécialisation avec n'importe qu'elle arme qu'il manie, des jets de toucher et du nombre d'attaques par round d'un guerrier, ainsi que d'une force de 18/50.
+Le charlatan peut Ã©lever ses combines Ã  un niveau supÃ©rieur et incarner un rÃ´le pour duper les autres. Une fois par jour, cette capacitÃ© lui donne 10% de chance par niveau (jusqu'Ã  un maximum de 50% au niveau 10) de se comporter pendant 5 rounds comme un combattant spÃ©cialisÃ© du mÃªme niveau (jusqu'au niveau 13) et de bÃ©nÃ©ficier des avantages de la spÃ©cialisation avec n'importe qu'elle arme qu'il manie, des jets de toucher et du nombre d'attaques par round d'un guerrier, ainsi que d'une force de 18/50.
 
-Il y a aussi 5% de chance que la comédie échoue lamentablement et le rende frustré. Il souffrira alors d'une pénalité de 3 à ses jets de toucher, de dégâts et de sauvegarde, ainsi qu'à sa classe d'armure. Pendant qu'il joue la comédie, le charlatan ne peut pas utiliser sa chanson du barde, lancer de sorts, ni utiliser ses autres capacités spéciales. Les deux effets durent 5 rounds et peuvent être dissipés.~
-@110 = ~Frustré~
+Il y a aussi 5% de chance que la comÃ©die Ã©choue lamentablement et le rende frustrÃ©. Il souffrira alors d'une pÃ©nalitÃ© de 3 Ã  ses jets de toucher, de dÃ©gÃ¢ts et de sauvegarde, ainsi qu'Ã  sa classe d'armure. Pendant qu'il joue la comÃ©die, le charlatan ne peut pas utiliser sa chanson du barde, lancer de sorts, ni utiliser ses autres capacitÃ©s spÃ©ciales. Les deux effets durent 5 rounds et peuvent Ãªtre dissipÃ©s.~
+@110 = ~FrustrÃ©~
 // EoF
