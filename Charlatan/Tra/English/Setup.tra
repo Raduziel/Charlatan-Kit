@@ -3,6 +3,6 @@
  * ===================== */
 @1 = ~Install Charlatan kit for Bards~ 
 @2 = ~Eldoth, the Charlatan.~
-@3 = ~This component is available only for BGEE and EET~
-@4 = ~This component requires the Charlatan kit~
+@3 = ~The kit or creature file wasn't found, the component will be ignored~
+
 // EoF

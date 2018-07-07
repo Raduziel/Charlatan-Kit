@@ -5,16 +5,16 @@
 //__________________________________________________________________________________
 //__________________________________________________________________________________
 
-ADD_KIT ~RACha~
-    ~RACha 1 1 1 1 1 1 1 1~
-    ~RACha 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0~
-	~RACha 3 12 3 13 3 16~
-	~RACha 0 0 0 0 0 0~
-	~RACha 18 18 18 18 18 18~
-    ~RACha 18 18 18 18 18 18~
-	~RACha 0 0 0 1 1 1 1 1 1~
-	~RACha 1 1 1 1 1 1~
-	~Charlatan\Tables\RACha.2da~
+ADD_KIT ~RAChar~
+    ~RAChar 1 1 1 1 1 1 1 1~
+    ~RAChar 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0~
+	~RAChar 3 12 3 13 3 16~
+	~RAChar 0 0 0 0 0 0~
+	~RAChar 18 18 18 18 18 18~
+    ~RAChar 18 18 18 18 18 18~
+	~RAChar 0 0 0 1 1 1 1 1 1~
+	~RAChar 0 0 0 0 0 0~
+	~Charlatan\Tables\RAChar.2da~
 	~K_B_H	K_B_D   K_B_G   K_B_E   K_B_HE   K_B_HL   K_B_HO~
 	~0x00400000 5~
 	~Ba0~
@@ -25,7 +25,7 @@ ADD_KIT ~RACha~
 
 LAF fl#add_kit_ee
 	STR_VAR
-		kit_name = ~RACha~
+		kit_name = ~RAChar~
 END
 
 COPY "Charlatan\Spl\RAChaCha.spl" override	SAY NAME1 @104	SAY UNIDENTIFIED_DESC @105
@@ -142,7 +142,7 @@ COPY_EXISTING_REGEXP GLOB ~^.+\.itm$~ ~override~
 		PATCH_IF ((flags1 & BIT3) = BIT3) BEGIN
 		READ_ASCII	0x22 animation (2)
 		PATCH_IF ("%animation%" STRING_EQUAL_CASE "3A") BEGIN
-		  LPF ~ADD_ITEM_EQEFFECT~ INT_VAR opcode = 319 target = 1 timing = 2 parameter1 = IDS_OF_SYMBOL (~Kit~ ~RACha~) parameter2 = 9 special = RESOLVE_STR_REF (@102) END
+		  LPF ~ADD_ITEM_EQEFFECT~ INT_VAR opcode = 319 target = 1 timing = 2 parameter1 = IDS_OF_SYMBOL (~Kit~ ~RAChar~) parameter2 = 9 special = RESOLVE_STR_REF (@102) END
 		END
 		END
 	END
