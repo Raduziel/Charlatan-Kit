@@ -1,10 +1,9 @@
 /* ===================== *
  *         SETUP         *
  * ===================== */
-@1 = ~Installer le profil de Charlatan pour Bardes~ 
+@1 = ~Installer le profil de Charlatan pour Bardes.~ 
 @2 = ~Eldoth, le Charlatan.~
-@3 = ~Ce composant n'est disponible que pour BGEE et EET~
-@4 = ~Ce composant necessite le profil de Charlatan~
+@3 = ~Impossible de trouver le profil ou le fichier de la creature. Le composant ne sera donc pas installe.~
 
 
 // WeiDU prompts
