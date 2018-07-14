@@ -3,31 +3,31 @@
  * ===================== */
 @101 = ~charlatan~
 @102 = ~Charlatan~
-@103 = ~CHARLATAN:  Charlatans are masters at manipulating people. Using their high Intelligence and understanding of human nature, they prey upon the foolish, overconfident, and greedy people around them. Charlatans often seem bold and boisterous, but they always maintain self-control. The profession of swindling others and making them feel good about it is an age-old practice and none are better at it than Charlatans.
+@103 = ~CHARLATAN:  The art of swindling others with the tools of illusion, misdirection, enticement and impersonation is an age-old practice, though none master all four traits better than the Charlatan. They are the masters of manipulation and the idiosyncrasy of the con. Using their superior intellect, understanding of human psychology, confidence and self-control, they place their mark upon the foolish, the overconfident, the greedy and the naive. 
 
 Advantages:
 
-- Starting at level 1, may use the Charm and Perceive The Truth abilities at will.
+- Starting at level 1, may use the Charm and Truth Perception abilities at will.
 - Starting at level 3, may cast Friends as a special ability once per day.
-- Starting at level 5, may use the Pretend ability once per day.
+- Starting at level 5, may use the Impersonation ability once per day.
 
 CHARM
 
-The Charlatan charms a victim during one turn. To be successful the target must be humanoid, non-hostile and fail a Saving Throw vs. Death with a -1 penalty for every three levels of the Charlatan (maximum -3). There's a 5% chance that the victim will notice <PRO_HISHER> intentions and go hostile. To keep the facade, the Charlatan can't cast any sort of spells or use <PRO_HISHER> Bard Song during 1 turn.
+The Charlatan charms their mark for one turn. To be successful the target must be humanoid, non-hostile and fail a Saving Throw vs. Death with a -1 penalty for every three levels of the Charlatan (maximum -3). There is a 5% chance that the mark will uncover the Charlatan's intentions and go hostile. To keep up the facade, the Charlatan cannot cast any spells or use <PRO_HISHER> bard song for 1 turn.
 
-PERCEIVE THE TRUTH
+TRUTH PERCEPTION
 
-The Charlatan is a professional liar and cheater and can perceive when someone is trying to mess with <PRO_HIMHER>. Using this ability the Charlatan have a 5% chance per level of dispelling hostile spells from the Illusion school in a 120-ft. radius area.
+The Charlatan is a professional cheat and liar, knowing all the tricks of the trade and how to identify them. Using this ability, the Charlatan has a 5% chance per level of dispelling hostile Illusion spells within a 120 foot radius area.
 
-PRETEND
+IMPERSONATION
 
-The Charlatan can really put an act sometimes. Using this ability, there's a 10% chance per level (maximum 50%) that the Charlatan receives the benefits of a specialist Warrior of the same level with whatever weapon <PRO_HESHE> is wielding, including boosting <PRO_HISHER> Strength to 18/50. There's a 5% chance that the act will fail miserably making the Charlatan become Frustrated, suffering a -3 penalty to damage, Thac0, saving throws and Armor Class. Both effects last for 5 rounds and can be dispelled. During the act the Charlatan can't use <PRO_HISHER> Bard Song, cast spells or use special abilities.
+The Charlatan can act and improvise to become anyone they wish to be. Using this ability, there is a 10% chance per level (maximum 50%) that the Charlatan receives the benefits of a specialist Warrior of the same level (up to level 13) with any weapon <PRO_HESHE> is wielding, including boosting <PRO_HISHER> Strength to 18/50. There is a 5% chance that the performance will fall flat, making the Charlatan become Frustrated, suffering a -3 penalty to damage, thac0, saving throws and armor class. Both effects last for 5 rounds and can be dispelled. During the act, the Charlatan can't use <PRO_HISHER> Bard Song, cast spells or use special abilities.
 
 Disadvantages:
 
-- Minimal of 16 Charisma
-- Alignment restricted to non-Lawful
-- Can only use up to and including studded leather.~
+- Minimum of 16 Charisma
+- Alignment restricted to non-lawful
+- Can only wear up to and including studded leather.~
 @104 = ~Charm~
 @105 = ~Charm
 
@@ -37,11 +37,11 @@ Casting Time: 1
 Area of Effect: 1 humanoid creature
 Saving Throw: Neg.
 
-The Charlatan is a specialist in getting people to like and believe him. With this ability the bard can charm any non-hostile humanoid creature for 1 turn, as long as its HD is lower or equal the Charlatan's level (maximum 10 HD). To keep the facade in case of success, the Charlatan can't cast any sort of spells or use <PRO_HISHER> Bard Song during 1 turn.
+The Charlatan is a specialist in the confidence game, quickly seeming both likeable and believable. With this ability, the bard can charm any non-hostile humanoid creature for 1 turn, as long as its HD is lower or equal to the Charlatan's level (maximum 10 HD). The confidence game requires focus, therefore while maintaining a successful Charm, the Charlatan cannot cast any spells or use <PRO_HISHER> Bard Song for 1 turn.
 
-The target can make a Saving Throw vs. death with a -1 penalty for every three levels of the Charlatan (maximum -3). Also, there's a 5% chance that the target notices that the Charlatan is trying to manipulate it and goes hostile.~
-@106 = ~Perceive The Truth~
-@107 = ~Perceive The Truth
+The mark can make a Saving Throw vs. death with a -1 penalty for every three levels of the Charlatan (maximum -3). There is also a 5% chance that the mark becomes aware of the Charlatan's manipulations and will turn hostile.~
+@106 = ~Truth Perception~
+@107 = ~Truth Perception
 
 Range: 0
 Duration: Instant
@@ -49,9 +49,10 @@ Casting Time: 1
 Area of Effect: 120-ft. radius
 Saving Throw: None
 
-When this spell is cast, an area roughly 120 ft. radius around the Charlatan will be affected. All hostile Illusion/Phantasm spells in the area of effect will have a 5% chance per level of the Charlatan of being instantly dispelled. The spells that are affected by this are Reflected Image, Invisibility, Mirror Image, Non-Detection, Improved Invisibility, Shadow Door, Mislead, Project Image, and Simulacrum. The target's Magic Resistance, if any, does not come into effect with this spell. This spell only affects enemies, thus it is unable to dispel invisibility from a party member.~
-@108 = ~Pretend~
-@109 = ~Pretend
+When this spell is cast, all hostile Illusion and Phantasm spells in the area of effect will have a 5% chance per level of the Charlatan of being instantly dispelled. The spells that are affected by this are: Reflected Image, Invisibility, Mirror Image, Non-Detection, Improved Invisibility, Shadow Door, Mislead, Project Image, and Simulacrum. The mark's Magic Resistance, if any, does not come into effect with this spell. This spell only effects hostile creatures, thus it is unable to dispel invisibility from a party member.~
+
+@108 = ~Impersonation~
+@109 = ~Impersonation
 
 Range: 0
 Duration: 5 rounds
@@ -59,8 +60,13 @@ Casting Time: 1
 Area of Effect: The caster
 Saving Throw: None
 
-The Charlatan can take <PRO_HISHER> schemes to a next level and really embody a character to outsmart others. This ability can be used once per day and gives the Charlatan a 10% chance (maximum of 50% at level 10) of successfully act as a specialist Fighter of the same level (up to level 13), gaining the benefits of specialization with whatever weapon <PRO_HESHE> is wielding, a Warrior's Thac0 and APR and raise <PRO_HISHER> Strength to 18/50 during 5 rounds.
+The Charlatan can use all their schemes and wiles to personify another character, misdirecting and duping their mark. This ability can be used once per day and gives the Charlatan a 10% chance of successfully impersonating as a specialist fighter of the same level, gaining all the benefits of specialization with the weapon <PRO_HESHE> is wielding. The Charlatan also appears to mimic the fighter's thac0, APR and <PRO_HISHER> strength increases to 18/50 for 5 rounds.
+For every level after 5, the Charlatan's chance of success increases by 10%, up to 50% at level 9.
 
-There's also a 5% chance that the act will fail miserably making the Charlatan Frustrated, giving <PRO_HIMHER> a -3 penalty to Thac0, damage, Armor Class and saving throws. During the act, obviously, the Charlatan can't cast spells, sing <PRO_HISHER> Bard Song or use special abilities. Both effects can be dispelled.~
+An act, regardless of how proficient the actor, cannot match the abilities of a seasoned warrior. To represent this, the Charlatan, no matter how experienced, can never impersonate a fighter beyond level 13.
+
+There is also a 5% chance that the act will fall flat, making the Charlatan 'Frustrated', giving <PRO_HIMHER> a -3 penalty to thac0, damage, armor class and saving throws. In order to not give the act away, the Charlatan cannot cast spells, sing <PRO_HISHER> Bard Song or use special abilities. Both effects can be dispelled.~
+
 @110 = ~Frustrated~
+
 // EoF
