@@ -39,7 +39,7 @@ Saving Throw: Neg.
 
 The Charlatan is a specialist in the confidence game, quickly seeming both likeable and believable. With this ability, the bard can charm any non-hostile humanoid creature for 1 turn, as long as its HD is lower or equal to the Charlatan's level (maximum 10 HD). The confidence game requires focus, therefore while maintaining a successful Charm, the Charlatan cannot cast any spells or use <PRO_HISHER> Bard Song for 1 turn.
 
-The mark can make a Saving Throw vs. death with a -1 penalty for every three levels of the Charlatan (maximum -3). There is also a 5% chance that the mark becomes aware of the Charlatan's manipulations and will turn hostile.~
+The mark can make a save vs. Death with a -1 penalty for every three levels of the Charlatan (maximum -3). There is also a 5% chance that the mark becomes aware of the Charlatan's manipulations and will turn hostile.~
 @106 = ~Truth Perception~
 @107 = ~Truth Perception
 
@@ -50,7 +50,6 @@ Area of Effect: 120-ft. radius
 Saving Throw: None
 
 When this spell is cast, all hostile Illusion and Phantasm spells in the area of effect will have a 5% chance per level of the Charlatan of being instantly dispelled. The spells that are affected by this are: Reflected Image, Invisibility, Mirror Image, Non-Detection, Improved Invisibility, Shadow Door, Mislead, Project Image, and Simulacrum. The mark's Magic Resistance, if any, does not come into effect with this spell. This spell only effects hostile creatures, thus it is unable to dispel invisibility from a party member.~
-
 @108 = ~Impersonation~
 @109 = ~Impersonation
 
@@ -67,7 +66,6 @@ Practice makes perfect and for every level after 5, the Charlatan's chance of su
 An act, regardless of how proficient the actor, cannot match the abilities of a seasoned warrior. To represent this, the Charlatan, no matter how experienced, can never impersonate a fighter beyond level 13.
 
 There is also a 5% chance that the act will fall flat, making the Charlatan 'Frustrated', giving <PRO_HIMHER> a -3 penalty to thac0, damage, armor class and saving throws. In order to not give the act away, the Charlatan cannot cast spells, sing <PRO_HISHER> Bard Song or use special abilities. Both effects can be dispelled.~
-
 @110 = ~Frustrated~
 
 // EoF
