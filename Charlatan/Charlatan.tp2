@@ -1,6 +1,6 @@
 BACKUP ~Charlatan/Backup~
 AUTHOR ~Raduziel~
-VERSION ~2.5~
+VERSION ~2.6~
 
 ALWAYS
 
@@ -13,12 +13,16 @@ ASK_EVERY_COMPONENT
 
 LANGUAGE ~English~
 		 ~Charlatan/Tra/English~
-		 ~Charlatan/Tra/English/setup.tra~
+		 ~Charlatan/Tra/English/Setup.tra~
 		 ~Charlatan/Tra/English/Charlatan.tra~
 LANGUAGE ~Francais (traduction: Gwendolyne)~
          ~French~
-		 ~Charlatan/Tra/French/setup.tra~
+		 ~Charlatan/Tra/French/Setup.tra~
 		 ~Charlatan/Tra/French/Charlatan.tra~
+LANGUAGE ~Russkiy (Perevod: Saigon1983)~
+         ~Russian~
+		 ~Charlatan/Tra/Russian/Setup.tra~
+		 ~Charlatan/Tra/Russian/Charlatan.tra~		 
 
 //__________________________________________________________________________________
 //__________________________________________________________________________________
